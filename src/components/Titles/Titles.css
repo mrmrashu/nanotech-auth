@@ -1,0 +1,12 @@
+/*Import Global Colors*/
+@import "../../ColorConstants.css";
+
+.titles {
+	display: flex;
+	text-align: left;
+	font-family: Inter, sans-serif;
+	font-weight: 500;
+	color: rgba(0,0,0,.7);
+	font-size: 32px;
+	padding: 3px 5px;
+}

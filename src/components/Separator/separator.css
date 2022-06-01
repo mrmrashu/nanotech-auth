@@ -1,0 +1,12 @@
+/*Global Styles*/
+@import "../../globals.css";
+/*Global Color Variables*/
+@import "../../ColorConstants.css";
+
+.separator {
+	width: 100%;
+	display: flex;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	border-top: Solid 1px var(--grey-300);
+}
